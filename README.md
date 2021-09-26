@@ -1,0 +1,1 @@
+Projeto prototipo de analise de mensagens e gatilhos para o Curso de Full Stack DEVInHouse do SENAI.
